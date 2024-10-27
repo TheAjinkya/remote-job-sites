@@ -71,6 +71,7 @@ Dive in and kickstart your remote career with confidence!
 - [Authentic Jobs](https://authenticjobs.com/)
 - [Tech Junction](https://techjunction.co/)
 - [Jobsfactor .EU](https://jobsfactor.eu/)
+- [Hired Jobs](https://www.hired.co.ke)
 
 *Social Good*
 - [Tech Jobs for Good](https://www.techjobsforgood.com/)
