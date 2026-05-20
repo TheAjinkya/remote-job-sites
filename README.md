@@ -56,6 +56,7 @@ Dive in and kickstart your remote career with confidence!
 
 
 **Remote Based on Region:**
+- [Hanzilla Jobs - Remote Canada student/new-grad roles](https://jobs.hanzilla.co/locations/remote/)
 - [EU Remote Jobs](https://euremotejobs.com/)
 - [Remote In Europe](https://remoteineurope.eu/)
 - [Talenteum.Africa](https://talenteum.africa/)
