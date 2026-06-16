@@ -46,7 +46,7 @@ Dive in and kickstart your remote career with confidence!
 38. [No Visa Jobs](https://novisajobs.com/)
 39. [Himalayas](https://himalayas.app/)
 40. [JS Remotely](https://jsremotely.com/)
-
+41. [chamet app](https://chametapp.agency/)
 **Niche Remote Job Boards:**
 - [RemoteWoman](https://remotewoman.com/)
 - [RemotePOC](https://remotepoc.com/)
