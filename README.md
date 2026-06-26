@@ -46,6 +46,7 @@ Dive in and kickstart your remote career with confidence!
 38. [No Visa Jobs](https://novisajobs.com/)
 39. [Himalayas](https://himalayas.app/)
 40. [JS Remotely](https://jsremotely.com/)
+41. [Meridian](https://meridianremote.com/) - Remote tech jobs matched to your timezone for US, LATAM, and EU; aggregated and deduplicated from top boards and ATS feeds.
 
 **Niche Remote Job Boards:**
 - [RemoteWoman](https://remotewoman.com/)
