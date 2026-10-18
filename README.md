@@ -53,6 +53,7 @@ Dive in and kickstart your remote career with confidence!
 - [RemotePRJobs](https://remoteprjobs.com/)
 - [The Remote Nurse](https://theremotenurse.com/)
 - [Upstack](https://upstack.co/)
+- [AI Trainer Jobs](https://aitrainer.jobs/)
 
 
 **Remote Based on Region:**
