@@ -58,6 +58,7 @@ Dive in and kickstart your remote career with confidence!
 **Remote Based on Region:**
 - [EU Remote Jobs](https://euremotejobs.com/)
 - [Remote In Europe](https://remoteineurope.eu/)
+- [EuroJobs.ai](https://eurojobs.ai/) - 28,000+ IT jobs across Europe aggregated hourly from employers' own career pages (Greenhouse, Lever, Ashby, Workable). Filters for visa sponsorship, English-speaking teams, remote, and salary.
 - [Talenteum.Africa](https://talenteum.africa/)
 - [Waw Asia](https://wawasia.com/)
 
